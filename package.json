@@ -1,0 +1,8 @@
+{
+  "name": "soundcloud-likes-viewer",
+  "version": "1.0.0",
+  "description": "Browse and preview all your SoundCloud likes in a local web viewer",
+  "bin": { "soundcloud-likes": "./soundcloud_likes.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
