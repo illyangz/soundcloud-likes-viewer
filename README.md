@@ -7,7 +7,7 @@ Browse, search, and preview all your SoundCloud liked tracks in a local web app.
 No install needed — just Node.js.
 
 \`\`\`
-node soundcloud_likes.js <your-username>
+node soundcloud_likes.js "your-username"
 \`\`\`
 
 Opens a browser at http://localhost:3000 with your full likes library.
